@@ -1,18 +1,7 @@
 ---
-title: Quotes and code blocks
-description: Quotes and code blocks
+title: title text
+description: description text
 tags: [tutorial:product/sapHana]
 ---
 
-# Quotes and code blocks
-
-> quote
->> quote1
-
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
+some text
