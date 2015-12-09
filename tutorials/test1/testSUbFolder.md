@@ -23,7 +23,7 @@ In this tutorial you will make your very first steps to access data on HANA. Thi
 </div>
 
 ## Prerequisites  
-![]({{ site.baseurl }}/assets/hana-data_files/ico-01.png){: height='20' width='35'} [Set up a HANA instance on a cloud provider](#)  
+![](/img-socialBox01.png){: height='20' width='35'} [Set up a HANA instance on a cloud provider](#)  
 ![]({{ site.baseurl }}/assets/hana-data_files/ico-01.png){: height='20' width='35'} [Hello World! Develop your first HANA application](#)
 
 ## Next Steps  
