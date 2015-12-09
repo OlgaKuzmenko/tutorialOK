@@ -1,6 +1,6 @@
 ---
 layout: tutorial
-title: normal scenario
+title: normal scenario test
 description: tutorial:product/sapHana
 tags: [HANA, SAPHANA]
 ---
