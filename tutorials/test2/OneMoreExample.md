@@ -2,7 +2,7 @@
 layout: tutorial
 title: normal scenario test
 description: tutorial:product/sapHana
-tags: [HANA, SAPHANA]
+tags: [HANA]
 ---
 #Mobile 101- Step 1
 ***
