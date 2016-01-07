@@ -1,6 +1,6 @@
 ---
 layout: tutorial
-title: Hana Data Access and Authorization (Modified) in Test sub-folder
+title: Hana Data Access and Authorization (Modified) in Test sub-folder1
 description: test subfolder import
 ---
 # Hello Data!
